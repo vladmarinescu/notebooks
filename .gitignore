@@ -1,0 +1,9 @@
+# ignore everything (a lot of data files not for git)
+*
+
+# except for:
+!*/*.ipynb
+!*.md
+!*/images/*
+!.gitignore
+
