@@ -11,3 +11,5 @@ A further `README.md` is added to every folder to explain, in further detail, wh
 For the clustering I use [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html). and [STL10](https://cs.stanford.edu/~acoates/stl10/) (both labelled datasets) to see if the clusters that are identified correspond to the classes that are available in the dataset (10 clusters-10 classes) and STL10 `train+unlabelled` for the image search.
 
 ![](images/barlowtwins_annoy.png)
+
+2. Python - Here I keep some of the notebooks for demonstrating & learning Python itself. 
